@@ -1,0 +1,4 @@
+errbit
+=======
+
+htgt's errbit
